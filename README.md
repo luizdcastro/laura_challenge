@@ -10,6 +10,7 @@ Para utilizar a aplicação localmente é necessário verificar se as portas 500
 Utilize o gereniador de pacotes [npm](https://docs.npmjs.com/) para instalar os modulos antes de iniciar as aplicações:
 
 Client: https://laura-lfc.herokuapp.com/
+
 API: https://laura-lfc1.herokuapp.com/
 
 ```bash
