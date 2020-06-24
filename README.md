@@ -5,9 +5,9 @@ Simulação de sistema de monitoramento hospitalar.
 O banco de dados possui três coleções compostas por users, pacientes e prontuários. 
 As rotas da API são protegidas por autenticação JWT que pode ser gerado através dos métodos de registro ou login.
 
-- Client: https://laura-lfc.herokuapp.com/
+- [Client - Laura task frontend](https://laura-lfc.herokuapp.com)
 
-- API: https://laura-lfc1.herokuapp.com/
+- [Server - Laura task backend](https://laura-lfc1.herokuapp.com)
 
 - [API Documentação](https://documenter.getpostman.com/view/11792698/SzzrWtA3?version=latest)
 
