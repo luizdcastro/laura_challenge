@@ -1,4 +1,4 @@
-# Laura Challange
+# Laura Task
 
 Simulação de sistema de monitoramento hospitalar.
 
