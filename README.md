@@ -9,6 +9,8 @@ As rotas da API são protegidas por autenticação JWT que pode ser gerado atrav
 
 - API: https://laura-lfc1.herokuapp.com/
 
+- [API Documentação](https://documenter.getpostman.com/view/11792698/SzzrWtA3?version=latest)
+
 ## Instalação e Utilização
 
 Para utilizar a aplicação localmente é necessário verificar se as portas 5000 (API) e 3000 (cliente) já estão sendo utilizadas. 
@@ -129,6 +131,7 @@ Response:
 Documentação com exemplos de requisições:
 
 - [Coleção Postman](https://www.getpostman.com/collections/f8f42faaf8a21e6e2adf)
+- [API Documentação](https://documenter.getpostman.com/view/11792698/SzzrWtA3?version=latest)
 
 ## Técnologias
 
