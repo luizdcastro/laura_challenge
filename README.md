@@ -9,7 +9,8 @@ Para utilizar a aplicação localmente é necessário verificar se as portas 500
 
 Utilize o gereniador de pacotes [npm](https://docs.npmjs.com/) para instalar os modulos antes de iniciar as aplicações:
 
-Client: https://laura-lfc.herokuapp.com - (Precisa iniciar o servidor localmente)
+Client: https://laura-lfc.herokuapp.com/
+API: https://laura-lfc1.herokuapp.com/
 
 ```bash
 npm install
@@ -24,7 +25,7 @@ Login
 Exemplo 01
 
 ```bash
-POST: http://localhost:5000/api/user/register
+POST: https://laura-lfc1.herokuapp.com/api/user/register
 
 Request:
 
@@ -55,7 +56,7 @@ CRUD completo
 Exemplo 02
 
 ```bash
-GET http://localhost:5000/api/paciente/5ef11bba5b9bf7080c07ed72
+GET https://laura-lfc1.herokuapp.com/api/paciente/5ef11bba5b9bf7080c07ed72
 
 Response:
 
@@ -81,7 +82,7 @@ Atualizar evolução do paciente
 Exemplo 3
 
 ```bash
-POST http://localhost:5000/api/prontuario/5ef301bf313eca41b09a2aa9
+POST https://laura-lfc1.herokuapp.com/api/prontuario/5ef301bf313eca41b09a2aa9
 
 Request:
 
