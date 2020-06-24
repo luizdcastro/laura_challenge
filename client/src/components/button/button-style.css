@@ -1,0 +1,24 @@
+.button-regular {
+  width: 312px;
+  height: 44px;
+  background: #0099e9;
+  border-radius: 50px;
+  text-align: center;
+  font-family: 'Open Sans';
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.12px;
+  color: #ffffff;
+  text-transform: uppercase;
+  border: 1px solid #0099e9;
+  margin-top: 15px;
+}
+
+.button-regular:focus {
+  outline: none;
+}
+
+.button-regular:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

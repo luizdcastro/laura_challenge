@@ -1,0 +1,50 @@
+.header-container {
+  background: #ff881f 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 30px;
+}
+
+.header-logo {
+  width: 116px;
+  height: 31px;
+  background: transparent;
+  color: #ffffff;
+}
+
+.logout-button {
+  display: flex;
+  align-items: center;
+  background: transparent;
+  border: none;
+  color: #f7f6f4;
+  opacity: 0.8;
+}
+
+.logout-button:hover {
+  color: #ffffff;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.logout-button:focus {
+  outline: none;
+}
+
+.button-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 3px;
+}
+
+.button-text {
+  text-align: left;
+  letter-spacing: 0.12px;
+  color: #f7f6f4;
+  font-family: 'Open Sans';
+  font-size: 14px;
+}
