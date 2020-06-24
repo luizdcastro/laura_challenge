@@ -5,7 +5,8 @@ As rotas da API são protegidas por autenticação JWT que pode ser gerado atrav
 
 ## Instalação e Utilização
 
-Para utilizar a aplicação localmente é necessário verificar se as portas 5000 (API) e 3000 (cliente) não estão sendo utilizadas. Na pasta da API deixei o arquivo CONFIG temporariamente, para que seja possivel conectar com o o banco de dados.
+Para utilizar a aplicação localmente é necessário verificar se as portas 5000 (API) e 3000 (cliente) já estão sendo utilizadas. 
+Na pasta da API deixei o arquivo CONFIG temporariamente, para que seja possivel conectar com o o banco de dados.
 
 Utilize o gereniador de pacotes [npm](https://docs.npmjs.com/) para instalar os modulos antes de iniciar as aplicações:
 
