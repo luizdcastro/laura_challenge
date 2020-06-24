@@ -1,18 +1,20 @@
 # Laura Challange
 
+Simulação de sistema de monitoramento hospitalar.
+
 O banco de dados possui três coleções compostas por users, pacientes e prontuários. 
 As rotas da API são protegidas por autenticação JWT que pode ser gerado através dos métodos de registro ou login.
+
+- Client: https://laura-lfc.herokuapp.com/
+
+- API: https://laura-lfc1.herokuapp.com/
 
 ## Instalação e Utilização
 
 Para utilizar a aplicação localmente é necessário verificar se as portas 5000 (API) e 3000 (cliente) já estão sendo utilizadas. 
 Na pasta da API deixei o arquivo CONFIG temporariamente, para que seja possivel conectar com o o banco de dados.
 
-Utilize o gereniador de pacotes [npm](https://docs.npmjs.com/) para instalar os modulos antes de iniciar as aplicações:
-
-Client: https://laura-lfc.herokuapp.com/
-
-API: https://laura-lfc1.herokuapp.com/
+Utilize o gereniador de pacotes [npm](https://docs.npmjs.com/) para instalar os modulos antes de iniciar as aplicações localmente:
 
 ```bash
 npm install
